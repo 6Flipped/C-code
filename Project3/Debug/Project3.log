@@ -1,0 +1,3 @@
+﻿  超市货品管理系统5.c
+C:\Users\李万洲\source\repos\Project3\超市货品管理系统5.c(83,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+  Project3.vcxproj -> C:\Users\李万洲\source\repos\Project3\Debug\Project3.exe
